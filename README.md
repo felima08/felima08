@@ -33,4 +33,4 @@
 ---
 
 📫 **Conecte-se comigo:**  
-[![LinkedIn]()
+[![LinkedIn](www.linkedin.com/in/felipe-gonçalves-740aab226)
