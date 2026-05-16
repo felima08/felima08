@@ -1,7 +1,7 @@
 # Olá, eu sou Felipe Gonçalves 👋
 
-💻 Estagiário Front-end | Angular | TypeScript  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Junior Front-end | Angular | TypeScript  
+🎓 Graduado de Análise e Desenvolvimento de Sistemas  
 
 ---
 
